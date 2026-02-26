@@ -1,4 +1,1 @@
-Membuat baris pertama
-Membuat baris kedua
-Membuat baris ketiga dari GitHub
-Membuat baris ke 4 dari branch percobaan
+ini baris dari percobaan
